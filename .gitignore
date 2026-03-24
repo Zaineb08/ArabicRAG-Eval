@@ -1,0 +1,38 @@
+# Environment & API Keys
+.env
+*.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+
+# Generated presentation/prompt files (not core research)
+PPT_PROMPT_ENHANCED.md
+ORAL_SCRIPT.md
+VIDEO_PROMPT.md
+
+# Generated resources (NotebookLLM outputs, videos, images)
+generated notebook llm ressources/
+*.mp4
+*.mp3
+
+# Word documents (keep markdown versions)
+*.docx
+*.doc
+
+# PowerPoint/PDF exports
+*.pptx
+*.ppt
+*.pdf
+
+# IDE
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log

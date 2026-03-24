@@ -1,0 +1,4 @@
+﻿Model,ROUGE-L (with ctx),ROUGE-L (no ctx),RAG Benefit (Δ),Refusal Accuracy
+LLaMA 3.3 70B,0.7333,0.2936,+0.4396,100%
+Qwen3 32B,0.5074,0.2301,+0.2773,80%
+ALLaM 2 7B,0.6397,0.2991,+0.3405,100%
